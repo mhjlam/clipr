@@ -340,3 +340,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/clipr/GeneratedFiles
+/clipr/SampleVideo_1280x720_5mb.mp4
